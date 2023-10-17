@@ -10,6 +10,6 @@ while(n>0)
     n=n/10;
     count++;
 }
-System.out.println(count);
+System.out.println("The total Digits in Number :"+count);
     }
 }
