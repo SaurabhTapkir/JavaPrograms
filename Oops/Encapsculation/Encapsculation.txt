@@ -1,0 +1,4 @@
+                                                                      Encapsulation  
+The process of binding properties and behaviour is called as Encapsculation
+it helps for hiding data 
+we use private keyword 
