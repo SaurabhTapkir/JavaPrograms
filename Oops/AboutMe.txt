@@ -1,5 +1,6 @@
 This repository is created for refreshinng Oops Concepts
-1.Encapsulation 
+we
+1.Encapsulation (achive data hiding)
 2.Polymorphism
-3.Inheritance
+3.Inheritance (use property of super class from sub class)
 4.Abstraction
