@@ -8,6 +8,7 @@ Polymorphism classified into Two types :-
 <hr>
 <select>
   <option>Click</option>
+   <option>Click</option>
 </select>
 
 1.Compile Time Polymorphism :
