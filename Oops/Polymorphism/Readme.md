@@ -6,6 +6,9 @@ Polymorphism classified into Two types :-
 
 <i>Object creation happens During Run Time</i>
 <hr>
+<select>
+  <option>Click</option>
+</select>
 
 1.Compile Time Polymorphism :
   It is process of Binding Between Method Call Statement and method implementation During Compile Time Called AS Compile Time Polymorphism <br>
