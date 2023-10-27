@@ -15,3 +15,7 @@ Polymorphism classified into Two types :-
         1.Method Overloading : Class Consist of more than one Method with same name and different argument is called as method overloading<br> 
         2.Constructor Overloading: Class Consist of More than Constructor With Same Class Name and different argument. <br>
 
+<hr>
+2.Run Time Polymorphism:
+  The process of binding between Method call statment and method implementation during Run Time Is called as <b>Runtime polymorphism</b>
+
