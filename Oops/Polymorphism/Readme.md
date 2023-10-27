@@ -18,4 +18,13 @@ Polymorphism classified into Two types :-
 <hr>
 2.Run Time Polymorphism:
   The process of binding between Method call statment and method implementation during Run Time Is called as <b>Runtime polymorphism</b>
-
+  It is also called as  Dynamic Binding or Late Binding 
+<b>RunTime Polymorphism Classified into Two types: <br>
+    1.Derived Type Casting:
+      it is process of Converting refernce(address )of one class to another class.
+      It is depends on primiitve Type casting.
+      Non Primitive Type Casting Classify into two type:
+      1.Upcasting :process of converting address of child class to its parent class 
+                   we need to create an object for child class  and pass reference to parent class
+                   create an obj to its parent class and pass ref from child class
+      2.Downcasting:-
