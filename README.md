@@ -1,2 +1,3 @@
 # JavaPrograms
-This is Java Program Repository 
+This is Basic Java Program Repository 
+This Covers Some Concepts of java  and their Prorgrams 
