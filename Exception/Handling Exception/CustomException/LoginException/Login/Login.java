@@ -19,7 +19,7 @@ class Login
         }
       catch(LoginException e)
         {
-        System.out.println(e)
+        System.out.println(e);
         }
       
     }
