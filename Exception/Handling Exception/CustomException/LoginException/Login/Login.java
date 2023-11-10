@@ -1,6 +1,6 @@
 class Login
   {
-    public static void input(String username)
+    public static void input(String username) throws LoginException
     {
       if(username=="SaurbhTapkir")
       {
@@ -8,11 +8,19 @@ class Login
       }
       else
       {
-        System.out.println( username+" Login Successfully...");
+       throw new LoginException(username +"is Invalid Username ");
       }
     }
-    public static void main()
+    public static void main(String[] args)
     {
-      input("SaurabhTapkir");
+      try
+        {
+          input("SaurabhTapkir");    
+        }
+      catch(LoginException e)
+        {
+        System.out.println(e)
+        }
+      
     }
   }
