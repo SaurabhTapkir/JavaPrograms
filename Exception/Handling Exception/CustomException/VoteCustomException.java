@@ -1,6 +1,6 @@
 class VoteCustomException
 {
-  public static void vote(int age)
+  public static void vote(int age) throws AgeInvalid
   {
     if(age>=18)
     {
@@ -15,10 +15,18 @@ class VoteCustomException
       throw new AgeInvalid("Not Eligible"); //we create own exception 
     }
   }
-  public static void main()
-  {
+  public static void main(String[] args)
+  { 
+    System.out.println("main begins");
+    try{
     vote(18);
+    }
+    catch(Throwable e){
+      System.out.println(e);
+      
+    }
+    System.out.println("main end");
   }
 }
 
-//create one 
+
