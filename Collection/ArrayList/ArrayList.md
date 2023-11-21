@@ -17,3 +17,22 @@
       System.out.println(obj); //tostring () is overriden so we don't get address here we get []
       }
       }
+
+We can Make ArrayList As Homogeneous with help of angular brackets  or diamond brackets   <>
+
+    class P2
+    {
+    public static void main(String[] args)
+    {
+    ArrayList <Integer> obj =new ArrayList <Integer> ();
+    obj.add(10);
+    obj.add(12);
+    obj.add(14);
+    System.out.println(obj);
+    }
+    }
+        o/p: [10,12,14]
+        by using  <Integer> we can store only homogeneous type of value in array
+
+
+    
