@@ -1,6 +1,6 @@
                                                                             Vector
 -we can create object  for array list with help of array list we can read ,store ,remove and use the an object
-  -we cannot able to modify the object
+  -we cannot able to modify the object<br>
   -Vector present inside java.util package 
   -Fully qualified name of arrayList is java.util.Vector
   -we help of this arraylist we can store homogeneous and heterogeneous type of object
