@@ -1,3 +1,4 @@
                                                                                         HashSet
 It is Concreate Class 
-It is PResent in java.util package
+It is Present in java.util package
+Fully Quaified Name is java.util.Hashset;
